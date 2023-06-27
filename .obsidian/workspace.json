@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "3c03466f2236a2d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "bba954c323627bc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "785d43b5da689ac6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Frequentist Inference/Pasted image 20230612083745.png"
+              }
+            }
+          },
+          {
+            "id": "fa6602153f840133",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frequentist Inference/Frequentist Inference.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "faf6daf7ef441263",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bayesian Inference/Bayesian Inference.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "179b27717e2aae87",
+    "type": "split",
+    "children": [
+      {
+        "id": "662420d224aab954",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef5539ab3b6efc04",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "303fb09ac0e6072c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd6b2e34b872e8a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b3fd2320d8f908c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0878516f6b3f3cd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17ab4048701baa3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bayesian Inference/Bayesian Inference.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "617fb60e8e181b6c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bayesian Inference/Bayesian Inference.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6bea4fef50d8872b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "24cbcd836f9e7275",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bayesian Inference/Bayesian Inference.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "faf6daf7ef441263",
+  "lastOpenFiles": [
+    "Pasted image 20230621141029.png",
+    "Distributions/Uniform Distribution/Uniform Distribution.md",
+    "Distributions/Uniform Distribution/Pasted image 20230611091523.png",
+    "Bayes Theorem/Bayes Theorem/Bayes Theorem.md",
+    "Pasted image 20230613102557.png",
+    "Bayesian Inference/Bayesian Inference.md",
+    "Pasted image 20230612155523.png",
+    "Pasted image 20230612131710.png",
+    "Distributions/Binomial Distribution/Binomial Distribution.md",
+    "Distributions/Binomial Distribution/Pasted image 20230612131640.png",
+    "Frequentist Inference/Frequentist Inference.md",
+    "Bayesian Inference/Pasted image 20230612122329.png",
+    "Bayesian Inference/Pasted image 20230612092910.png",
+    "Basics/Terms and Notation.md",
+    "Distributions/Bernoulli Distribution/Bernoulli Distribution.md",
+    "Untitled",
+    "Frequentist Inference/Pasted image 20230612091036.png",
+    "Basics/Pasted image 20230612090450.png",
+    "Frequentist Inference/Pasted image 20230612083745.png",
+    "Basics/Central Limit Theorem.md",
+    "Distributions/Exponential Distribution/Exponential Distribution.md",
+    "Basics/Expected Values.md",
+    "Basics/Indicator Functions.md",
+    "Bayesian Inference",
+    "Frequentist Inference",
+    "Basics",
+    "Bayes Theorem",
+    "Distributions",
+    "Distributions/Normal Distribution/Normal Distribution.md",
+    "Distributions/Normal Distribution",
+    "Distributions/Exponential Distribution",
+    "Distributions/Uniform Distribution",
+    "Distributions/Binomial Distribution"
+  ]
+}
