@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bayesian Inference/Bayesian Inference.md",
+                "file": "Distributions/Binomial Distribution/Binomial Distribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bayesian Inference/Bayesian Inference.md",
+                "file": "Distributions/Binomial Distribution/Binomial Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bayesian Inference/Bayesian Inference.md",
+                "file": "Distributions/Binomial Distribution/Binomial Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bayesian Inference/Bayesian Inference.md"
+                "file": "Distributions/Binomial Distribution/Binomial Distribution.md"
               }
             }
           }
@@ -171,25 +171,25 @@
   },
   "active": "faf6daf7ef441263",
   "lastOpenFiles": [
+    "Distributions/Bernoulli Distribution/Bernoulli Distribution.md",
     "Pasted image 20230621141029.png",
-    "Distributions/Uniform Distribution/Uniform Distribution.md",
-    "Distributions/Uniform Distribution/Pasted image 20230611091523.png",
-    "Bayes Theorem/Bayes Theorem/Bayes Theorem.md",
+    "Distributions/Bernoulli Distribution/Pasted image 20230727083929.png",
     "Pasted image 20230613102557.png",
-    "Bayesian Inference/Bayesian Inference.md",
     "Pasted image 20230612155523.png",
-    "Pasted image 20230612131710.png",
     "Distributions/Binomial Distribution/Binomial Distribution.md",
+    "Bayes Theorem/Bayes Theorem/Bayes Theorem.md",
+    "Distributions/Uniform Distribution/Uniform Distribution.md",
+    "Distributions/Binomial Distribution/Pasted image 20230612131710.png",
+    "Distributions/Normal Distribution/Normal Distribution.md",
+    "Distributions/Uniform Distribution/Pasted image 20230611091523.png",
+    "Bayesian Inference/Bayesian Inference.md",
     "Distributions/Binomial Distribution/Pasted image 20230612131640.png",
     "Frequentist Inference/Frequentist Inference.md",
     "Bayesian Inference/Pasted image 20230612122329.png",
     "Bayesian Inference/Pasted image 20230612092910.png",
     "Basics/Terms and Notation.md",
-    "Distributions/Bernoulli Distribution/Bernoulli Distribution.md",
     "Untitled",
     "Frequentist Inference/Pasted image 20230612091036.png",
-    "Basics/Pasted image 20230612090450.png",
-    "Frequentist Inference/Pasted image 20230612083745.png",
     "Basics/Central Limit Theorem.md",
     "Distributions/Exponential Distribution/Exponential Distribution.md",
     "Basics/Expected Values.md",
@@ -199,7 +199,6 @@
     "Basics",
     "Bayes Theorem",
     "Distributions",
-    "Distributions/Normal Distribution/Normal Distribution.md",
     "Distributions/Normal Distribution",
     "Distributions/Exponential Distribution",
     "Distributions/Uniform Distribution",

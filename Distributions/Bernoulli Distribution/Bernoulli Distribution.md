@@ -8,6 +8,9 @@
 ### Parameters
 p = probability of a success
 
+### Likelihood Function
+![[Pasted image 20230727083929.png]]
+
 ### PMF (Probability Mass Function)
 
 ![[Pasted image 20230610102538.png]]
